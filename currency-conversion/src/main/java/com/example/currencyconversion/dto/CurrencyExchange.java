@@ -13,7 +13,7 @@ public class CurrencyExchange {
     private long id;
     private String firstname;
     private String lastname;
-    private BigDecimal conversionMultiple;
+   // private BigDecimal conversionMultiple;
     private String port;//این فیلد رو برای این قرار دادیم ک ببینیم هر portاز کجا جنریت میشه
 
 
